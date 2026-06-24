@@ -1,6 +1,7 @@
 var wps = localStorage.getItem("wps") || 0;
 var locked = localStorage.getItem("locked");
 
+
 const walls = [
   "dark/img1.jpg",
   "dark/img0.jpg",
